@@ -1,0 +1,18 @@
+.appointments-page-container{
+    text-align: center;
+}
+
+.randevu-cards-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.appointments-page-btn-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
